@@ -1,0 +1,6 @@
+name = "Snowflurry-Registry"
+uuid = "1aaa39ab-0db2-4ffa-9186-e683be5787f2"
+repo = "git@github.com:ps-pat/Snowflurry-Registry.git"
+description = "Registry for anything Snowflurry related."
+
+[packages]
