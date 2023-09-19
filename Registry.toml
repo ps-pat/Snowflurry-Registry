@@ -4,3 +4,4 @@ repo = "git@github.com:ps-pat/Snowflurry-Registry.git"
 description = "Registry for anything Snowflurry related."
 
 [packages]
+7bd9edc1-4fdc-40a1-a0f6-da58fb4f45ec = { name = "Snowflurry", path = "S/Snowflurry" }
